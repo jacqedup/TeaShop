@@ -1,0 +1,25 @@
+.navbar .fab {
+padding-left: 15px;
+font-size: 1.2rem;
+}
+
+.jumbotron {
+background-image: url(../images/drink-food-kitchen-32266.jpg);
+background-size: cover;
+background-position: center;
+width: 100%;
+min-height: 500px;
+}
+
+.row img {
+width: 150px;
+height: 150px;
+}
+
+#map-container-google-11 {
+margin-top: 25px;
+}
+
+footer {
+background-color: #28A745 !important;
+}
